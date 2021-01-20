@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44027" started-at="2021-01-15T01:39:46Z" finished-at="2021-01-15T01:40:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44027" started-at="2021-01-15T01:39:46Z" finished-at="2021-01-15T01:40:30Z">
+      <class name="com.actitime.test.DeleteCustomer">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.actitime.test.DeleteCustomer@2cbb3d47]" name="openbrowser" is-config="true" duration-ms="4490" started-at="2021-01-15T01:40:19Z" finished-at="2021-01-15T01:40:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="deletecustomer()[pri:0, instance:com.actitime.test.DeleteCustomer@2cbb3d47]" name="deletecustomer" duration-ms="6296" started-at="2021-01-15T01:40:24Z" finished-at="2021-01-15T01:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.actitime.test.DeleteCustomer@2cbb3d47]" name="closebrowser" is-config="true" duration-ms="1" started-at="2021-01-15T01:40:30Z" finished-at="2021-01-15T01:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.actitime.test.DeleteCustomer -->
+      <class name="com.actitime.test.CreateCustomerTest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.actitime.test.CreateCustomerTest@6e75aa0d]" name="openbrowser" is-config="true" duration-ms="4406" started-at="2021-01-15T01:39:59Z" finished-at="2021-01-15T01:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="createCustomer()[pri:0, instance:com.actitime.test.CreateCustomerTest@6e75aa0d]" name="createCustomer" duration-ms="8818" started-at="2021-01-15T01:40:03Z" finished-at="2021-01-15T01:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.actitime.test.CreateCustomerTest@6e75aa0d]" name="closebrowser" is-config="true" duration-ms="1" started-at="2021-01-15T01:40:12Z" finished-at="2021-01-15T01:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.actitime.test.CreateCustomerTest -->
+      <class name="com.actitime.test.ActitimeTest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.actitime.test.ActitimeTest@7fc229ab]" name="openbrowser" is-config="true" duration-ms="4780" started-at="2021-01-15T01:40:12Z" finished-at="2021-01-15T01:40:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="logginin()[pri:0, instance:com.actitime.test.ActitimeTest@7fc229ab]" name="logginin" duration-ms="2967" started-at="2021-01-15T01:40:17Z" finished-at="2021-01-15T01:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logginin -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.actitime.test.ActitimeTest@7fc229ab]" name="closebrowser" is-config="true" duration-ms="1" started-at="2021-01-15T01:40:19Z" finished-at="2021-01-15T01:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.actitime.test.ActitimeTest -->
+      <class name="com.actitime.test.CreateLeaveTest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.actitime.test.CreateLeaveTest@4387b79e]" name="openbrowser" is-config="true" duration-ms="5220" started-at="2021-01-15T01:39:46Z" finished-at="2021-01-15T01:39:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="createLeave()[pri:0, instance:com.actitime.test.CreateLeaveTest@4387b79e]" name="createLeave" duration-ms="7016" started-at="2021-01-15T01:39:51Z" finished-at="2021-01-15T01:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLeave -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.actitime.test.CreateLeaveTest@4387b79e]" name="closebrowser" is-config="true" duration-ms="0" started-at="2021-01-15T01:39:59Z" finished-at="2021-01-15T01:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.actitime.test.CreateLeaveTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
