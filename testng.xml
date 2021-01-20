@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.actitime.test.CreateLeaveTest"/>
+      <class name="com.actitime.test.Checking"/>
       <class name="com.actitime.test.CreateCustomerTest"/>
       <class name="com.actitime.test.ActitimeTest"/>
       <class name="com.actitime.test.DeleteCustomer"/>
